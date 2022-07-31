@@ -1,7 +1,7 @@
-- 🔭 I’m currently working on ... GDTils
-- 🌱 I’m currently learning ... Javascript
-- 💬 Ask me about ... Any bugs or ideas you have
-- 📫 How to reach me: ... companioncubegd@gmail.com
-- 😄 Pronouns: ... she/her
-
-
+Hi!\
+I Am Companioncubegd (aka Mafuyu)\
+Im working on a bunch of different stuff, Mainly GDTils\
+I know Python3, HTMl & CSS\
+Im learning, Javascript, C/C++ (still havent decided) & C#\
+You can contact me via email (companioncubegd@gmail.com)\
+If you have any sort of bug or idea you would like me to fix or impleament conact me email (or Issues section on github)!\
