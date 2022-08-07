@@ -1,7 +1,7 @@
 # Hi!
 I Am Companioncubegd (aka Mafuyu) 
 
-- Im working on a bunch of different stuff, Mainly GDTils (Not a stable release so no github repo yet)
+- Im working on a bunch of different stuff, Mainly My schools FFA site (I get to make it :D)
 - I know Python3, HTMl & CSS
 - Im learning, Javascript, C/C++ (still havent decided) && C#
 
