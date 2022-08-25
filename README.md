@@ -1,7 +1,7 @@
 # Hi!
 I Am Companioncubegd (aka Mafuyu) 
 
-- Im working on a bunch of different stuff, Mainly A project similar to Titanium Network with me friend Ethonic (Project: Quartz)
+- Im working on a bunch of different stuff, Mainly A project called Quartz, similar to Titanium Network with me friend Ethonic (theEthonic)
 - I know Python3, HTMl & CSS
 - Im learning, Javascript, C/C++ (still havent decided) && C#
 
