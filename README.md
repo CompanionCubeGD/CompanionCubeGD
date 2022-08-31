@@ -1,7 +1,7 @@
 # Hi!
 I Am Companioncubegd (aka Mafuyu) 
 
-- Im working on a bunch of different stuff. Check all of my github repo's!
+- Im working on a bunch of different stuff. I mainly work on a project simmilar to TN with Ethonic (https://github.com/theethonic) Called Quartz
 - I know Python3, HTMl, Bash, Batch & CSS
 - Im learning, Javascript, C, and maybe C#
 
@@ -15,4 +15,4 @@ If you have any sort of bug or idea you would like me to fix or implement contac
 
 # More Stuff
 - I upload some gists once in a while: https://gist.github.com/CompanionCubeGD
-- Link does currently not work but I do have an organization (QruartZ): https://github.com/companioncubegd/quartzorg 
+- Link does currently not work but I do have an organization (QuartZ): https://github.com/companioncubegd/quartzorg 
