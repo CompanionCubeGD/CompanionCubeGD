@@ -15,4 +15,4 @@ If you have any sort of bug or idea you would like me to fix or implement contac
 
 # More Stuff
 - I upload some gists once in a while: https://gist.github.com/CompanionCubeGD
-- Link does currently not work but I do have an organization (QuartZ): https://github.com/companioncubegd/quartzorg 
+- Link to QuartZ: https://github.com/quartzwork
