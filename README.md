@@ -1,4 +1,4 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=companioncubegd&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=companioncubegd&show_icons=true&theme=radical)
 
 # Hi!
 I Am Companioncubegd (aka Scarlett, my pronouns are she/they) 
