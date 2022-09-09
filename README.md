@@ -1,5 +1,5 @@
 # Hi!
-I Am Companioncubegd (aka Mafuyu) 
+I Am Companioncubegd (aka Scarlett, my pronouns are she/they) 
 
 - Im working on a bunch of different stuff. I mainly work on a project simmilar to TN with Ethonic (https://github.com/theethonic) Called Quartz
 - I know Python3, HTMl, Bash, Batch & CSS
