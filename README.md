@@ -1,5 +1,6 @@
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=companioncubegd&show_icons=true)
+
 # Hi!
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
 I Am Companioncubegd (aka Scarlett, my pronouns are she/they) 
 
 - Im working on a bunch of different stuff. I mainly work on a project simmilar to TN with Ethonic (https://github.com/theethonic) Called Quartz
