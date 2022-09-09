@@ -1,5 +1,3 @@
-![](https://8080-i3619-whatdoesthisdo-lekn78y7p5o.ws-us64.gitpod.io/service/hvtrs8%2F-gktju%60.aoo%2Fccaownv)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=companioncubegd&show_icons=true&theme=tokyonight)
 
 # Hi!
