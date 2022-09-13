@@ -5,7 +5,7 @@ I Am Companioncubegd (aka Scarlett, my pronouns are she/they)
 
 - Im working on a bunch of different stuff. I mainly work on a project simmilar to TN with Ethonic (https://github.com/theethonic) Called Quartz
 - I know Python3, HTMl, Bash, Batch & CSS
-- Im learning, Javascript, C, and maybe C#
+- Im learning, Javascript, C++, C, and maybe C#
 
 # Contact
 - You can contact me via email (companioncubegd@gmail.com) 
