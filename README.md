@@ -1,7 +1,8 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=companioncubegd&show_icons=true&theme=tokyonight)
 
 # Hi!
-I Am Companioncubegd (aka Scarlett, my pronouns are she/they 🏳️‍⚧️)\
+I Am Companioncubegd (aka Scarlett, my pronouns are she/they 🏳️‍⚧️)
+
 Projects:
 - Git.py - Python 3 module for working with git
 - Quartz - Unblocker group simillar to TN
