@@ -1,13 +1,11 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=companioncubegd&show_icons=true&theme=tokyonight)
 
 # Hi!
-I Am Companioncubegd (aka Scarlett, my pronouns are she/they 🏳️‍⚧️) 
+I Am Companioncubegd (aka Scarlett, my pronouns are she/they 🏳️‍⚧️)\
+Projects:
+- Git.py - Python 3 module for working with git
+- Quartz - Unblocker group simillar to TN
 
-- I am the head developer of Quartz: https://github.com/quartz-services
-- I Also created the git python module
-
-- I know Python 3, html, and css
-- I am learning js, c plus plus, and c
 
 # Contact
 - You can contact me via email (companioncubegd@gmail.com) 
