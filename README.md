@@ -4,8 +4,9 @@
 I Am Companioncubegd (aka Scarlett, my pronouns are she/they 🏳️‍⚧️)
 
 Projects:
-- Git.py - Python 3 module for working with git
+- Git.py - Python 3 module for working with the cli tool git
 - Quartz - Unblocker group simillar to TN
+- vaccine - Python 3 dll injector
 
 
 # Contact
