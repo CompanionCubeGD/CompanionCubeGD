@@ -16,6 +16,8 @@ Projects:
 
 If you have any sort of bug or idea you would like me to fix or implement contact me via email, discord, or Issues section on github!
 
+# Languges I use the most
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=companioncubegd&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 # More Stuff
 - I upload some gists once in a while: https://gist.github.com/CompanionCubeGD
