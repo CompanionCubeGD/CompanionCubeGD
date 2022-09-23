@@ -23,5 +23,11 @@ Projects:
 - YAURLS - Yet Another URL Shortener (Langauge: HTML, CSS, JS, & Python 3)
 
 # Languges I use the most
+- Python 3
+- HTML
+- CSS
+- JS
+- C
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=companioncubegd&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
