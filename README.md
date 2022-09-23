@@ -1,7 +1,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=companioncubegd&show_icons=true&theme=tokyonight)
 
 # Hi!
-I Am Wyhm and I code things ![](https://github.com/woahyouhitme/WoahYouHitMe/pfp.png)
+I Am Wyhm and I code things ![](Screenshot 2022-09-23 10.50.24 AM.png)
 
 # Socials
 Im kinda grounded lmao (removed them all cuz I was mad and now regret it :/)
