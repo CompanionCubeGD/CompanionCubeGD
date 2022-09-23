@@ -1,7 +1,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=companioncubegd&show_icons=true&theme=tokyonight)
 
 # Hi!
-![](Screenshot 2022-09-23 10.50.24 AM.png/)
+![](https://github.com/woahyouhitme/WoahYouHitMe/Screenshot 2022-09-23 10.50.24 AM.png)\
 I Am Wyhm and I code things 
 
 # Socials
