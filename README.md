@@ -1,7 +1,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=companioncubegd&show_icons=true&theme=tokyonight)
 
 # Hi!
-I Am Wyhm and I code things
+I Am Wyhm and I code things ![](https://github.com/woahyouhitme/WoahYouHitMe/pfp.png)
 
 # Socials
 Im kinda grounded lmao (removed them all cuz I was mad and now regret it :/)
@@ -23,6 +23,7 @@ Projects:
 - YAURLS - Yet Another URL Shortener (Langauges: HTML, CSS, JS, & Python 3) (not started)
 - FreshM - Reddit Meme Site (Languages: HTML, CSS, JS, & Python 3) (not started)
 - YAUOS - Yet Another Useless OS (Langauges: Assembly, C) (not started)
+- BS.py - Blog Script (Language: Python 3)
 
 # Languges
 
