@@ -19,8 +19,9 @@ Projects:
 - WebGarcH - Web-Game Archive (Language: HTML, CSS, Python 3, & JS)
 - Opacity - Minimal Unblocker (Language: HTML, CSS, & JS)
 - mLib - Macro & Image Recogniziton Library (Language: Pytnon 3)
-- nkLit - Site Hub 4 Games, Unblockers, etc (Language: HTML, CSS, JS)
+- nkLit - Site Hub 4 Games, Unblockers, etc (Language: HTML, CSS, Python 3, JS)
 - YAURLS - Yet Another URL Shortener (Langauge: HTML, CSS, JS, & Python 3)
+- FreshM - Reddit Meme Site (Language: HTML, CSS, JS, & Python 3)
 
 # Languges I use the most
 - Python 3
