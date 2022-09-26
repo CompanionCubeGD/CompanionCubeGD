@@ -13,7 +13,7 @@ Projects:
 - YACC - Yet Another C Compiler (Language: C) (not started)
 - I2C.py- Python 3 Compiler (Languages: C & Python 3) (not started)
 - Sally - Simple Shell (Language: C) (not started)
-- YAPM - Yet Another Package Manger (Langauge: Python 3) (not started)
+- YAPM - Yet Another Package Manger (Langauge: Python 3 or C) (not started)
 - nBloK - Simple Set Of Scripts 4 Tab Cloaking & About:Blank Masking (Languages: HTML, CSS, & JS) (not started)
 - Daybreak - Full-Featured Unblocker (Languages: HTML, CSS, & JS) (started)
 - WebGarcH - Web-Game Archive (Languages: HTML, CSS, Python 3, & JS) (started)
@@ -23,7 +23,8 @@ Projects:
 - YAURLS - Yet Another URL Shortener (Langauges: HTML, CSS, JS, & Python 3) (not started)
 - FreshM - Reddit Meme Site (Languages: HTML, CSS, JS, & Python 3) (not started)
 - YAUOS - Yet Another Useless OS (Langauges: Assembly, C) (not started)
-- BS.py - Blog Script (Language: Python 3)
+- BS.py - Blog Script (Language: Python 3) (not started)
+- 
 
 # Languges
 
@@ -46,6 +47,11 @@ Languages I Hate
 - Java
 - php
 - javascript (typescript is way better)
+
+My Favorite Languages
+- Python 3
+- C
+- TS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woahyouhitme&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
