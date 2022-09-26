@@ -24,7 +24,8 @@ Projects:
 - FreshM - Reddit Meme Site (Languages: HTML, CSS, JS, & Python 3) (not started)
 - YAUOS - Yet Another Useless OS (Langauges: Assembly, C) (not started)
 - BS.py - Blog Script (Language: Python 3) (not started)
-- 
+- Bones - A Bunch Of C Librarys I Made Because There Not Built In (Lanuage: C) (not started)
+- CASM - ASM Compiler (Language: C & ASN) (not started)
 
 # Languges
 
