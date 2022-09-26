@@ -4,9 +4,10 @@
 Im Wyhm and I code things 
 
 # Socials
-Im kinda grounded lmao (removed them all cuz I was mad and now regret it :/)
+-Twitter: @jagdpout
+-Email: companioncubegd@gmail.com
 
-Projects:
+# Projects:
 - Git.py - Python 3 Module For Working With The Cli Tool Git (Language: Python 3) (started)
 - Apidash - Geometry Dash Server API (Language: Python 3) (not started)
 - Cmdash - GD Browser Ported To A CLI Using Apidash (Language: Python 3) (not started)
