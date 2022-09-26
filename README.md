@@ -1,8 +1,7 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=companioncubegd&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=woahyouhitme&show_icons=true&theme=tokyonight)
 
 # Hi!
-![](https://github.com/woahyouhitme/WoahYouHitMe/Screenshot 2022-09-23 10.50.24 AM.png)\
-I Am Wyhm and I code things 
+Im Wyhm and I code things 
 
 # Socials
 Im kinda grounded lmao (removed them all cuz I was mad and now regret it :/)
@@ -41,7 +40,12 @@ Langauges Im Leaning
 - C#
 - TS
 - Assembly
-- 
+- Kotlin
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=companioncubegd&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+Languages I Hate
+- Java
+- php
+- javascript (typescript is way better)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woahyouhitme&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
