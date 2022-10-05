@@ -1,7 +1,7 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=woahyouhitme&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=scaratek&show_icons=true&theme=tokyonight)
 
 # Hi!
-Im Wyhm and I code things 
+Im Scaratek and I code things 
 
 # Socials
 - Twitter: @jagdpout
@@ -28,5 +28,5 @@ Languages I Want To Learn
 - C
 - JS
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woahyouhitme&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scaratek&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
