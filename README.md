@@ -22,7 +22,7 @@ Im Scaratek and I code things
 Langauges I Know
 - Python 3
 - HTML
-- CSC
+- CSS
 
 Languages I Want To Learn
 - C
