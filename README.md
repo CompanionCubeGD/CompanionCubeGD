@@ -12,12 +12,6 @@ Im Scaratek and I code things
 - mLib - Macro & Image Recogniziton Library
 - Daybreak - Full-Featured Unblocker
 - APIdash - API For Interacting With Geometry Dash Servers
-- nBloK - Simple Set Of Scripts 4 Tab Cloaking & About:Blank Masking
-- nkLit - Site Hub 4 Games, Unblockers, etc
-- Opacity - Minimal Unblocker
-- Nightligt - Creepypasta forum site similar to Reddit (link: https://nightlight.ga, currently not hosted)
-- Ex - Python 3 Webproxy
-
 
 # Languges
 
