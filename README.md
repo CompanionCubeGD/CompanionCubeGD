@@ -12,6 +12,7 @@ Im Scaratek and I code things
 - mLib - Macro & Image Recogniziton Library
 - Daybreak - Full-Featured Unblocker
 - APIdash - API For Interacting With Geometry Dash Servers
+- Seidge - Node JS Webproxy
 
 # Languges
 
