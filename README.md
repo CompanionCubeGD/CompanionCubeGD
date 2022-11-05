@@ -10,9 +10,10 @@ Im Scaratek and I code things
 # Projects:
 - Git.py - Python 3 Module For Interacting With Popular CLI Git
 - mLib - Macro & Image Recogniziton Library
-- Daybreak - Full-Featured Unblocker
+- Haven - Unblocker
 - APIdash - API For Interacting With Geometry Dash Servers
-- Seidge - Node JS Webproxy
+- Rattle - Python 3 Compiler
+- Cobra - Python 3 CS; Go Hack Client
 
 # Languges
 
