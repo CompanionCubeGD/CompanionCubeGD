@@ -10,10 +10,13 @@ Im Scaratek and I code things
 # Projects:
 - Git.py - Python 3 Module For Interacting With Popular CLI Git
 - mLib - Macro & Image Recogniziton Library
-- Haven - Unblocker
+- Haven - #1 Unblocker
 - APIdash - API For Interacting With Geometry Dash Servers
 - Rattle - Python 3 Compiler
 - Algebra - Cs; Go Glow ESP
+- Proton - Hotkey Software
+- Border - Cs; Go Glow ESP (in a different lagnuage)
+- Multistep - Cs; Go Multi-Hack
 
 # Languges
 
