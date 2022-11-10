@@ -14,12 +14,8 @@ Im Scaratek and I code things
 - APIdash - API For Interacting With Geometry Dash Servers
 - Rattle - Python 3 Compiler
 - Algebra - Cs; Go Glow ESP
-- Proton - Hotkey Software
-- Border - Cs; Go Glow ESP (in a different lagnuage)
-- Multistep - Cs; Go Multi-Hack
 
 # Languges
-
 Langauges I Know
 - Python 3
 - HTML
