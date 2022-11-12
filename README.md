@@ -13,7 +13,8 @@ Im Scaratek and I code things
 - Haven - #1 Unblocker
 - APIdash - API For Interacting With Geometry Dash Servers
 - Rattle - Python 3 Compiler
-- Algebra - Cs; Go Glow ESP
+- Chronical - Bookmarklet Hub
+- Ness - Example Site Blocker
 
 # Languges
 Langauges I Know
