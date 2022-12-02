@@ -3,24 +3,24 @@
 # Hi!
 Im Scaratek and I code things 
 
-# Socials
+## Socials
 - Twitter: @jagdpout
 - Email: companioncubegd@gmail.com
 - YT - @scaratek / scaratek
 
-# Projects:
+## Projects
 - Illusion - Modern Unblocker
 - Chronical - Bookmarklet Hub
 
-# Languges
+## Languges
 Langauges I Know
 - Python 3
 - HTML
 - CSS
-
-Languages I Want To Learn
-- C
 - JS
+
+#Languages I Want To Learn
+- C
 - C++
 - C#
 - AHK
