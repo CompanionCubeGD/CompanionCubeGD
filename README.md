@@ -1,29 +1,16 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=scaratek&show_icons=true&theme=tokyonight)
 
 # Hi!
-Im Scaratek and I code things 
+Im Scaratek and I code things
+- Current Project - SrcSkol
+  - What is SrcSkol?
+  - SrcSkol is a Github profile for all decompiled versions of school monitoring software for chrome OS like Securly. You can find it at [SrcSkol](https://github.com/srcskol)
 
 ## Socials
-- Twitter: @jagdpout
-- Email: companioncubegd@gmail.com
-- YT - @scaratek / scaratek
+- Twitter: [@Scaratek](https://www.twiter.com/scaratek)
+- Email: scaratek@outlook.com
+- YT - [@Scaratek](https://www.youtuber.com/@scaratek)
 
-## Projects
-- Illusion - Modern Unblocker
-- Chronical - Bookmarklet Hub
-
-## Languges
-Langauges I Know
-- Python 3
-- HTML
-- CSS
-- JS
-
-#Languages I Want To Learn
-- C
-- C++
-- C#
-- AHK
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scaratek&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
