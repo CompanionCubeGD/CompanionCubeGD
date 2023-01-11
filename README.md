@@ -18,4 +18,4 @@ Im Scaratek and I code things
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scaratek&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-######################################################### hi :3
+############ hi :3
