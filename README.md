@@ -1,4 +1,4 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=scaratek&show_icons=true&theme=tokyonight)
+![Scaratek's GitHub stats](https://github-readme-stats.vercel.app/api?username=scaratek&show_icons=true&theme=tokyonight)
 
 # Hi!
 Im Scaratek and I code things
