@@ -1,5 +1,3 @@
-![Scaratek's GitHub stats](https://github-readme-stats.vercel.app/api?username=scaratek&show_icons=true&theme=tokyonight)
-
 # Hi!
 Im Scaratek and I code things
 - Current Project - SrcSkol
@@ -12,8 +10,5 @@ Im Scaratek and I code things
 - Twitter: [@Scaratek](https://www.twiter.com/scaratek)
 - Email: scaratek@outlook.com
 - YT - [@Scaratek](https://www.youtuber.com/@scaratek)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scaratek&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ###### hi :3
