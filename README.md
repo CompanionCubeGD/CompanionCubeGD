@@ -1,6 +1,7 @@
 # Hi!
 Im Scaratek and I code things!
 - Member of Chromium and Mercury Workshop
+- Pronouns - She/They (Trans 🏳️‍⚧️)
 
 ## Projects
 - [SrcSkol](https://github.com/src-skol) - GH Org with a bunch of popular school blockers with there source code commented and de-obfuscated
