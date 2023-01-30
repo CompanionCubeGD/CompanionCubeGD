@@ -8,6 +8,7 @@ Im Scaratek and I code things!
 - [Nixix](https://github.com/scaratek/nixix)- Terminal Emulator but Vim and Python 3
 - [Illusion](https://github.com/chromium-workshop/illusion) - Modern Unblocker 
 - [Skyhigh](https://github.com/chromium-workshop/skyhigh) - Yet Anthoer TompHTTP Webproxy
+- [Lola](https://github.com/scaratek/lola) - Util (not raiding) Discord Selfbot
 
 ## Socials
 - Twitter: [@Scaratek](https://www.twiter.com/scaratek)
