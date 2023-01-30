@@ -10,6 +10,7 @@ Im Scaratek and I code things!
 - [Illusion](https://github.com/chromium-workshop/illusion) - Modern Unblocker 
 - [Skyhigh](https://github.com/chromium-workshop/skyhigh) - Yet Anthoer TompHTTP Webproxy
 - [Lola](https://github.com/scaratek/lola) - Util (not raiding) Discord Selfbot
+- [Thrill](https://github.com/scaratek/thrill) - Basic Shell in Python 3
 
 ## Socials
 - Twitter: [@Scaratek](https://www.twiter.com/scaratek)
