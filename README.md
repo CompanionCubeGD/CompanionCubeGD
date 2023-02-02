@@ -18,5 +18,6 @@ Im Scaratek and I code things!
 - Email: scaratek@outlook.com
 - YT - [@Scaratek](https://www.youtuber.com/@scaratek)
 - Discord - Scarat3k#1795
+- Discord Server - [Scarat3k](https://discord.gg/JawyTs5zsh)
 
 ###### hi :3
