@@ -9,7 +9,7 @@ Im Scaratek and I code things!
 - [Nixix](https://github.com/scaratek/nixix)- Terminal Emulator but Vim and Python 3
 - [Illusion](https://github.com/chromium-workshop/illusion) - Modern Unblocker 
 - [Skyhigh](https://github.com/chromium-workshop/skyhigh) - Yet Anthoer TompHTTP Webproxy
-- [ProXz](https://github.com/scaratek/proxz) - The Most Simplistic Unblocker Ever
+- [ProCz](https://github.com/scaratek/proxz) - The Most Simplistic Unblocker Ever
 - [Xenray](https://github.com/chromium-workshop/xenray) - Yet Another Hyper Tabs Clone
 - [Lola](https://github.com/scaratek/lola) - Util (not raiding) Discord Selfbot
 - [Thrill](https://github.com/scaratek/thrill) - Basic Shell in Python 3
