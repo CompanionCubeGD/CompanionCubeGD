@@ -2,7 +2,6 @@
 Im Scaratek and I code things!
 - Member of Chromium and Mercury Workshop
 - Pronouns - She/They (Trans 🏳️‍⚧️)
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="scarat3k" data-color="#FFDD00" data-emoji="" data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
 
 ## Projects
 - [SrcSkol](https://github.com/src-skol) - GH Org with a bunch of popular school blockers with there source code commented and de-obfuscated
