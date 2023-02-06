@@ -7,7 +7,7 @@ Im Scaratek and I code things!
 - [ProCz](https://github.com/scaratek/procz) - The Most Simplistic Unblocker Ever
 - [Lola](https://github.com/scaratek/lola) - Util (Discord Selfbot
 - [Proxifly](https://github.com/scaratek/Proxifly) - Top Tier Unblocker
-- [Jemity](https://github.com/scaratek/Jemity - Gfiles With UI
+- [Jemity](https://github.com/scaratek/Jemity) - Gfiles With UI
 - [Sharkstooth](https://github.com/scaratek/sharkstooth) - Rammerhead Without Sessions
 - [Skyhigh](https://github.com/scaratek/skyhigh) - Yet Another TompHTTP Webproxy
 - [Tabular](https://github.com/scaratek/tabular) - Hypertabs Clone
