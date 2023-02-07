@@ -11,13 +11,14 @@ Im Scaratek and I code things!
 - [Sharkstooth](https://github.com/scaratek/sharkstooth) - Rammerhead Without Sessions
 - [Skyhigh](https://github.com/scaratek/skyhigh) - Yet Another TompHTTP Webproxy
 - [Tabular](https://github.com/scaratek/tabular) - Hypertabs Clone
+- [Pollen](https://github.com/mercuryworkshop/pollen) - CrOS Exploit
 
 
 ## Socials
 - Twitter: [@Scaratek](https://www.twiter.com/scaratek)
 - Email: scarat3k@outlook.com
 - YT - [@Scaratek](https://www.youtuber.com/@scaratek)
-- Discord - Scarat3k#2239
+- Discord - Scarat3k0001
 - Discord Server - [Scarat3k](https://discord.gg/JawyTs5zsh)
 
 <a href="https://www.buymeacoffee.com/scarat3k"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=scarat3k&button_colour=f5bce0&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
