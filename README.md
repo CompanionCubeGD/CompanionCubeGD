@@ -13,6 +13,7 @@ Im Scaratek and I code things!
 - [Tabular](https://github.com/scaratek/tabular) - Hypertabs Clone
 - [Pollen](https://github.com/mercuryworkshop/pollen) - CrOS Exploit
 - [Spoofli](https://github.com/mercuryworkshop/spoofli) - Spoofed Version Of Securly
+- [Yuribot](https://github.com/scaratek/yuribot) - Discord bot For Me And My Girlfriend <3
 
 
 ## Socials
