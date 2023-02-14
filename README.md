@@ -1,6 +1,9 @@
 # Hi!
 Im Scaratek and I code things!
 - Member of Mercury Workshop
+- Developer of Pollen
+- Dating Madjik
+- She/They 🏳️‍⚧️
 
 ## Projects
 - [SrcSkol](https://github.com/src-skol) - GH org with popular blockers src code to find exploits
