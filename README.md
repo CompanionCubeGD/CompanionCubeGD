@@ -1,6 +1,6 @@
 # Hi!
 Im Scaratek and I code things!
-- Member of Mercury Workshop
+- [Retired] Member of Mercury Workshop
 - Developer of Pollen
 - Dating Madjik
 - She/They 🏳️‍⚧️
