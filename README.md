@@ -1,6 +1,7 @@
 # Hi!
 Im Scaratek and I code things!
 - [Retired] Member of Mercury Workshop
+- Owner of Crystal Network
 - Developer of Pollen
 - Dating Madjik
 - She/They 🏳️‍⚧️
@@ -8,7 +9,7 @@ Im Scaratek and I code things!
 ## Projects
 - [SrcSkol](https://github.com/src-skol) - GH org with popular blockers src code to find exploits
 - [ProCz](https://github.com/scaratek/procz) - The Most Simplistic Unblocker Ever
-- [Lola](https://github.com/scaratek/lola) - Util (Discord Selfbot
+- [Lola](https://github.com/scaratek/lola) - Util (Discord Selfbot)
 - [Proxifly](https://github.com/scaratek/Proxifly) - Top Tier Unblocker
 - [Jemity](https://github.com/scaratek/Jemity) - Gfiles With UI
 - [Sharkstooth](https://github.com/scaratek/sharkstooth) - Rammerhead Without Sessions
