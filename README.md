@@ -1,6 +1,6 @@
 # Hi!
 Im Scaratek and I code things!
-- [Retired] Member of Mercury Workshop
+- Member of Mercury Workshop
 - Owner of Crystal Network
 - Developer of Pollen
 - Dating Madjik
