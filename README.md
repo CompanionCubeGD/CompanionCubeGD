@@ -18,7 +18,7 @@ Im Scaratek and I code things!
 
 ## Socials
 - Twitter: [@Scaratek](https://www.twiter.com/scaratek)
-- Email: scarat3k@outlook.com
+- Email: scarlly@scara.tech
 - YT - [@Scaratek](https://www.youtuber.com/@scaratek)
 - Discord Server - [Scarat3k](https://discord.gg/JawyTs5zsh)
 
