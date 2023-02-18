@@ -13,8 +13,6 @@ Im Scaratek and I code things!
 - [Pollen](https://github.com/mercuryworkshop/pollen) - CrOS Exploit
 - [Spoofli](https://github.com/mercuryworkshop/spoofli) - Spoofed Version Of Securly
 - [Yuribot](https://github.com/scaratek/yuribot) - Discord bot For Me And My Girlfriend <3
-- [Scaret](https://githubcom/scaratek/scaret) - Keyboard Based Toolbar To Save Time
-
 
 ## Socials
 - Twitter: [@Scaratek](https://www.twiter.com/scaratek)
