@@ -9,10 +9,13 @@ Im Scaratek and I code things!
 ## Projects
 - [SrcSkol](https://github.com/src-skol) - GH org with popular blockers src code to find exploits
 - [ProCz](https://github.com/scaratek/procz) - The Most Simplistic Unblocker Ever
-- [Lola](https://github.com/scaratek/lola) - Util (Discord Selfbot)
 - [Pollen](https://github.com/mercuryworkshop/pollen) - CrOS Exploit
 - [Spoofli](https://github.com/mercuryworkshop/spoofli) - Spoofed Version Of Securly
-- [Yuribot](https://github.com/scaratek/yuribot) - Discord bot For Me And My Girlfriend <3
+- Sharkstooth - Rammerhead Without Sessions
+- TompKS - A TompHTTP Webproxy Kickstarter
+- AreoKS - A Areo-SDK Webproxy Kickstarter
+- Skyhigh - Yet Another TompHTTP Webproxy
+- Reflection - A Webproxy Made With The Areo SDK
 
 ## Socials
 - Email: [scarlly@scara.tech](mailto:scarlly@scara.tech)
