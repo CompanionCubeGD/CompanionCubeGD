@@ -12,6 +12,8 @@ Im Scaratek and I code things!
 - [Pollen](https://github.com/mercuryworkshop/pollen) - CrOS Exploit
 - [Spoofli](https://github.com/mercuryworkshop/spoofli) - Spoofed Version Of Securly
 - [Sharkstooth](https://github.com/scaratek/sharkstooth) - Rammerhead Without Sessions
+- [Crystal Network](https://github.com/crystalnetwork-dev) - ~~TN Ripoff~~
+- [Crystal Network Devtools](https://github.com/crystalnetwork-devtools) - Crystal Network Development Tools
 
 ## Socials
 - Email: [scarlly@scara.tech](mailto:scarlly@scara.tech)
