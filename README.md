@@ -11,11 +11,7 @@ Im Scaratek and I code things!
 - [ProCz](https://github.com/scaratek/procz) - The Most Simplistic Unblocker Ever
 - [Pollen](https://github.com/mercuryworkshop/pollen) - CrOS Exploit
 - [Spoofli](https://github.com/mercuryworkshop/spoofli) - Spoofed Version Of Securly
-- Sharkstooth - Rammerhead Without Sessions
-- TompKS - A TompHTTP Webproxy Kickstarter
-- AreoKS - A Areo-SDK Webproxy Kickstarter
-- Skyhigh - Yet Another TompHTTP Webproxy
-- Reflection - A Webproxy Made With The Areo SDK
+- [Sharkstooth](https://github.com/scaratek/sharkstooth) - Rammerhead Without Sessions
 
 ## Socials
 - Email: [scarlly@scara.tech](mailto:scarlly@scara.tech)
