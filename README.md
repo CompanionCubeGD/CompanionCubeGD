@@ -1,13 +1,14 @@
 # Hi!
-Im Scaratek and I code things!
+Im Scarat3k and I code things!
 - Member of Mercury Workshop
 - Owner of Crystal Network
+- Owner and Developer of FlightOS
 - Developer of Pollen
-- Dating Madjik
+- Dating Majikun <3
 - She/They 🏳️‍⚧️
 
 ## Projects
-- [SrcSkol](https://github.com/src-skol) - GH org with popular blockers src code to find exploits
+- [SrcSkol](https://github.com/src-skol) - GH org with Popular Blockers Src Code to Find Exploits
 - [Pollen](https://github.com/mercuryworkshop/pollen) - CrOS Exploit
 - [Crystal Network](https://github.com/crystalnetwork-dev) - ~~TN Ripoff~~
 - [Crystal Network Devtools](https://github.com/crystalnetwork-devtools) - Crystal Network Development Tools
