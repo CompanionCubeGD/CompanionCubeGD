@@ -2,7 +2,7 @@
 Im Scarat3k and I code things!
 - Member of Mercury Workshop
 - Owner of Crystal Network
-- Owner and Developer of FlightOS
+- Owner of FlightOS
 - Developer of Pollen
 - Dating Majikun <3
 - She/They 🏳️‍⚧️
