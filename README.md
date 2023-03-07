@@ -13,7 +13,7 @@ Im Scarat3k and I code things!
 - [Crystal Network](https://github.com/crystalnetwork-dev) - ~~TN Ripoff~~
 - [Crystal Network Devtools](https://github.com/crystalnetwork-devtools) - Crystal Network Development Tools
 - [FlightOS](https://github.com/flightos) - Trans Gender Arch With A Sexy UI
-- [Silvix](https://github.com/scaratek/silvix) - File Server Made With Node.JS
+- [ScaraFS](https://scarafs.scarat3k.me) - Scarlett File Server
 
 ## Socials
 - Email: [scarlly@scara.tech](mailto:scarlly@scara.tech)
