@@ -4,7 +4,7 @@ Im Scarat3k and I code things!
 - Owner of Crystal Network
 - Owner of FlightOS
 - Developer of Pollen
-- Dating Majikun <3
+- Married to Koaku <3
 - She/They 🏳️‍⚧️
 
 ## Projects
@@ -18,7 +18,6 @@ Im Scarat3k and I code things!
 ## Socials
 - Email - [scarlly@scara.tech](mailto:scarlly@scara.tech)
 - Youtube - [@Scaratek](https://www.youtuber.com/@scaratek)
-- Discord Server - [Discord Server Wow](https://discord.gg/JawyTs5zsh)
 - Website- [Website Thingy](https://scarat3k.me)
 
 <a href="https://www.buymeacoffee.com/scarat3k"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=scarat3k&button_colour=f5bce0&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
