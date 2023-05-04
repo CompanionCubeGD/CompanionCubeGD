@@ -12,7 +12,7 @@ Hi I'm Violet!
 - [FlightOS](https://github.com/flightos) - Nix-based Distro
 - [Cekzu](https://github.com/scaratek/cekzu) - Off-brand Bookmarklet
 - (WIP) [Blog](https://github.com/scaratek/blog) - My Blog Wowzers
-- (Closed Source) [Lola](https://github.com/scaratek/lola) - Discord Seflbot
+- (WIP) [Lola](https://github.com/scaratek/lola) - Discord Seflbot
 
 ## Socials
 - [Email](mailto:scarlettyuko@outlook.com)
