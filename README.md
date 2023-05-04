@@ -1,6 +1,10 @@
 # Hi!
-- Hi I'm Violet and I'm a suicidal mess :D
-- I used to develop for Mercury Workshop but I'm useless now
+Hi I'm Violet!
+- Retired Contributor in the TN Community
+- Member of Mercury Workshop
+- Owner of Flight OS
+- A Suicidal Mess
+- Trans Mtf & Pansexual
 
 ## Projects
 - [SrcSkol](https://github.com/src-skol) - Source Code for Popular Web-Filters
