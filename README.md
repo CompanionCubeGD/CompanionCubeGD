@@ -5,6 +5,7 @@ Hi I'm Violet!
 - Owner of Flight OS
 - A Suicidal Mess
 - Trans Mtf & Pansexual
+- TuYu Addict
 
 ## Projects
 - [SrcSkol](https://github.com/src-skol) - Source Code for Popular Web-Filters
