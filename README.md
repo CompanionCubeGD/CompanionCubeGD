@@ -11,7 +11,6 @@ Hi I'm Violet!
 - [SrcSkol](https://github.com/src-skol) - Source Code for Popular Web-Filters
 - [FlightOS](https://github.com/flightos) - Nix-based Distro
 - [Cekzu](https://github.com/scaratek/cekzu) - Off-brand Bookmarklet
-- (WIP) [Blog](https://github.com/scaratek/blog) - My Blog Wowzers
 - (WIP) [Lola](https://github.com/scaratek/lola) - Discord Seflbot
 
 ## Socials
