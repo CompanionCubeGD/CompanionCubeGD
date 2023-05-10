@@ -20,4 +20,4 @@ Hi I'm Violet!
 - [Website](https://scarat3k.me)
 - Discord - Violetence#0001
 
-<img src="https://komarev.com/ghpvc/?username=scaratek&label= Click on this :D &color=FF90FF&style=flat" alt="scaratek" />
+<img src="https://komarev.com/ghpvc/?username=scaratek&label= Clicked on My Profile :D &color=FF90FF&style=flat" alt="scaratek" />
