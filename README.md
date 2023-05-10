@@ -19,3 +19,5 @@ Hi I'm Violet!
 - [Email](mailto:scarlettyuko@outlook.com)
 - [Website](https://scarat3k.me)
 - Discord - Violetence#0001
+
+<img src="https://komarev.com/ghpvc/?username=scaratek&label= Click on this :D &color=FF90FF&style=flat" alt="scaratek" />
