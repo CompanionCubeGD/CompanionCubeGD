@@ -13,6 +13,8 @@ Hi I'm Violet!
 - [Cekzu](https://github.com/scaratek/cekzu) - Off-brand Bookmarklet
 - [LGfiles](https://github.com/scaratek/lgfiles) - Local Gfiles
 - [Hyperplex](https://github.com/scaratek/hyperplex) - Simplistic Unblocker w/ UV Backend
+- [ToolADB](https://github.com/scaratek/tooladb) - Toolkit for ADB Made in Pure Bash
+- [Oopsies](https://github.com/scaratek/oopsies) - IP and Device Information Logger
 - (WIP) [Lola](https://github.com/scaratek/lola) - Discord Seflbot
 
 ## Socials
