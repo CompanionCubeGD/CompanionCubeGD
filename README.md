@@ -8,9 +8,10 @@ Hi I'm Violet!
 
 ## Projects
 - [SrcSkol](https://github.com/src-skol) - Source Code for Popular Web-Filters
-- (WIP) [FlightOS](https://github.com/flightos) - Nix-based Distro
 - [Cekzu](https://github.com/scaratek/cekzu) - Off-brand Bookmarklet
 - [Hyperplex](https://github.com/scaratek/hyperplex) - Simplistic Unblocker w/ UV Backend
+- [xClip](https://github.com/scaratek/xclip) - External Noclip Hack for GD
+- (WIP) [FlightOS](https://github.com/flightos) - Nix-based Distro
 - (WIP) [ToolADB](https://github.com/scaratek/tooladb) - Toolkit for ADB Made in Pure Bash
 - (WIP) [HypeX](https://github.com) - Custom Kit for RecoMod 
 - (WIP) [Lola](https://github.com/scaratek/lola) - Discord Seflbot
