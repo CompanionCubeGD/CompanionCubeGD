@@ -13,7 +13,7 @@ Hi I'm Smugumin / Violet!
 - (WIP) [Lola](https://github.com/scaratek/lola) - Discord Seflbot
 
 ## Socials
-- [Email](mailto:scarlettyuko@outlook.com)
+- [Email](mailto:scaratek@outlook.com)
 - [Website](https://scarat3k.me)
 - Discord - Smugumin#6957
 
