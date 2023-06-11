@@ -9,6 +9,7 @@ Hi I'm Smugumin / Violet!
 - [Cekzu](https://github.com/scaratek/cekzu) - Off-brand Bookmarklet
 - [Hyperplex](https://github.com/scaratek/hyperplex) - Simplistic Unblocker w/ UV Backend
 - [xClip](https://github.com/scaratek/xclip) - External Noclip Hack for GD
+- (WIP) [Lotus](https://github.com/scaratek/lotus) - BeEF but Node
 - (WIP) [ToolADB](https://github.com/scaratek/tooladb) - Toolkit for ADB Made in Pure Bash
 - (WIP) [Lola](https://github.com/scaratek/lola) - Discord Seflbot
 
