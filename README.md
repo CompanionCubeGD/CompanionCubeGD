@@ -1,5 +1,5 @@
 # Hi!
-Hi I'm Smugumin / Violet!
+Hi I'm Scaratek / Violet!
 - Retired Contributor in the TN Community
 - Member of Mercury Workshop
 - Transgender Male to Female
@@ -17,6 +17,6 @@ Hi I'm Smugumin / Violet!
 ## Socials
 - [Email](mailto:scaratek@outlook.com)
 - [Website](https://scarat3k.me)
-- Discord - Smugumin#6957
+- Discord - scaratek
 
 <img src="https://komarev.com/ghpvc/?username=scaratek&label= Clicked on My Profile :D &color=FF90FF&style=flat" alt="scaratek" />
