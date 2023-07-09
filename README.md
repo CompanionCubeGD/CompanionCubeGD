@@ -5,12 +5,11 @@ Hi I'm Scaratek / Violet!
 - Transgender Male to Female
 
 ## Projects
-- [SrcSkol](https://github.com/src-skol) - Source Code for Popular Web-Filters
 - [Pollen](https://github.com/mercuryworkshop/pollen) - CrOS User Policy Editor
 - [Cekzu](https://github.com/scaratek/cekzu) - Off-brand Bookmarklet
 - [Hyperplex](https://github.com/scaratek/hyperplex) - Simplistic Unblocker w/ UV Backend
-- [xClip](https://github.com/scaratek/xclip) - External Noclip Hack for GD
-- (WIP) [Lotus](https://github.com/scaratek/lotus) - BeEF but Node
+- [Lotus](https://github.com/scaratek/lotus) - BeEF but Node
+- [Rose](https://github.com/scaratek/rose) - Window Manager Written In JS
 
 ## Socials
 - [Email](mailto:scaratek@outlook.com)
