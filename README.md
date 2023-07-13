@@ -1,7 +1,6 @@
 # Hi!
 Hi I'm Scaratek / Violet!
 - Retired Contributor in the TN Community
-- Member of Mercury Workshop
 - Transgender Male to Female
 
 ## Projects
