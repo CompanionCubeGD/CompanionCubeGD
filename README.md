@@ -15,4 +15,5 @@ Hi I'm Scaratek / Violet!
 - [Website](https://scarat3k.me)
 - Discord - scaratek
 
-<img src="https://komarev.com/ghpvc/?username=scaratek&label= Clicked on My Profile :D &color=FF90FF&style=flat" alt="scaratek" />
+### :3 
+![:name](https://count.getloli.com/get/@:name)
