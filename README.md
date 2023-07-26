@@ -16,4 +16,4 @@ Hi I'm Scaratek / Violet!
 - Discord - scaratek
 
 ### :3 
-![:name](https://count.getloli.com/get/@:name)
+![:violet](https://count.getloli.com/get/@:violet)
