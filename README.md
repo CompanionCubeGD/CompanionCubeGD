@@ -1,6 +1,6 @@
 # Hi :3
 Hi I'm Entrpix!
-- 
+- 🏳️‍⚧️|She/Her
 - TN Contributor
 - MW Member
 
