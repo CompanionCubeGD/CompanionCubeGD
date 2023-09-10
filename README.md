@@ -1,19 +1,18 @@
-# Hi!
-Hi I'm Scaratek / Violet!
-- Retired Contributor in the TN Community
-- Transgender Male to Female
+# Hi :3
+Hi I'm Entrpix!
+-    
+- TN Contributor
+- MW Member
 
 ## Projects
 - [Pollen](https://github.com/mercuryworkshop/pollen) - CrOS User Policy Editor
-- [Cekzu](https://github.com/scaratek/cekzu) - Off-brand Bookmarklet
-- [Hyperplex](https://github.com/scaratek/hyperplex) - Simplistic Unblocker w/ UV Backend
-- [Lotus](https://github.com/scaratek/lotus) - BeEF but Node
-- [Rose](https://github.com/scaratek/rose) - Window Manager Written In JS
+- [Hyperplex](https://github.com/scaratek/hyperplex) - Simplistic UV Reskin
+- [Rose](https://github.com/scaratek/rose) - Window Manager Written in JS
 
 ## Socials
 - [Email](mailto:scaratek@outlook.com)
 - [Website](https://scarat3k.me)
-- Discord - scaratek
+- Discord - @entrpix
 
 ### :3 
-![:violet](https://count.getloli.com/get/@:violet)
+Miku is Life
